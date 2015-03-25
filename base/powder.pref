@@ -1,0 +1,66 @@
+{
+	"InstallCheck" : true,
+	"WindowX" : "3c6",
+	"WindowY" : "12b",
+	"Renderer" : {
+		"ColourMode" : "0",
+		"DisplayModes" : [
+			"2"
+		],
+		"RenderModes" : [
+			"ff00f270",
+			"400f381"
+		],
+		"GravityField" : false,
+		"Decorations" : true,
+		"DebugMode" : false
+	},
+	"Simulation" : {
+		"EdgeMode" : "0",
+		"NewtonianGravity" : "1",
+		"AmbientHeat" : "0",
+		"PrettyPowder" : "0"
+	},
+	"Decoration" : {
+		"Red" : "c8",
+		"Green" : "64",
+		"Blue" : "32",
+		"Alpha" : "ff"
+	},
+	"User" : {
+		"ID" : 137353,
+		"SessionID" : "A14BF1BB6B951B8CC040779D05378A",
+		"SessionKey" : "14FFCA555A",
+		"Username" : "JesFot",
+		"Elevation" : "None"
+	},
+	"Console" : {
+		"History" : [
+			"tpt.el.dmnd.id",
+			"elements.property(tpt.el.dmnd.id, \"Identifier\")",
+			"tpt.el.dmnd",
+			"tpt.el.dmnd.name",
+			"tpt.el.dmnd.state",
+			"tpt.el.dmnd.properties",
+			"tpt.el.dmnd.update",
+			"tpt.el.dmnd.update",
+			"tpt.el.dmnd.update == NULL",
+			"NULL",
+			"tpt.screenshot(1,0)",
+			"tpt.screenshot(1,0)",
+			"tpt.screenshot(1,0)",
+			"!set temp 293.15",
+			"!set temp dmnd 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"!set temp all 293.15",
+			"JSFT.clearLog()"
+		]
+	}
+}
