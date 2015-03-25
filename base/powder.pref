@@ -27,40 +27,13 @@
 		"Blue" : "32",
 		"Alpha" : "ff"
 	},
-	"User" : {
-		"ID" : 137353,
-		"SessionID" : "A14BF1BB6B951B8CC040779D05378A",
-		"SessionKey" : "14FFCA555A",
-		"Username" : "JesFot",
-		"Elevation" : "None"
-	},
+	"User" : null,
 	"Console" : {
 		"History" : [
-			"tpt.el.dmnd.id",
-			"elements.property(tpt.el.dmnd.id, \"Identifier\")",
 			"tpt.el.dmnd",
 			"tpt.el.dmnd.name",
-			"tpt.el.dmnd.state",
-			"tpt.el.dmnd.properties",
-			"tpt.el.dmnd.update",
-			"tpt.el.dmnd.update",
-			"tpt.el.dmnd.update == NULL",
-			"NULL",
 			"tpt.screenshot(1,0)",
-			"tpt.screenshot(1,0)",
-			"tpt.screenshot(1,0)",
-			"!set temp 293.15",
-			"!set temp dmnd 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"!set temp all 293.15",
-			"JSFT.clearLog()"
+			"!set temp all 293.15"
 		]
 	}
 }
